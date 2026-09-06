@@ -253,14 +253,14 @@ Hi, I'm **Preet Patil**. I enjoy building software, solving problems, and contin
 
 | project | live | stack |
 |:---|:---:|:---|
-| **[MediMate](https://github.com/preetpatil214/MediMate)** | — | `HTML` `CSS` `JavaScript` `Android` |
-| **[BookMyService](https://github.com/preetpatil214/BookMyService)** | — | `HTML` `CSS` `JavaScript` |
-| **[CalcFlow](https://github.com/preetpatil214/CalcFlow)** | — | `HTML` `CSS` `JavaScript` |
-| **[Kaali-Peeli Radio](https://github.com/preetpatil214/Kaali-Peeli_Radio)** | — | `HTML` `CSS` `JavaScript` |
-| **[Youtube Clone](https://github.com/preetpatil214/Youtube-Clone)** | — | `HTML` `CSS` `JavaScript` |
-| **[Imperial Reality](https://github.com/preetpatil214/Imperial-Reality)** | — | `HTML` `CSS` `JavaScript` |
-| **[QuickeR — QR Generator](https://github.com/preetpatil214/QuickeR---QR-generator)** | — | `HTML` `CSS` `JavaScript` |
-| **[WAQT — an ambient timer](https://github.com/preetpatil214/WAQT----an-ambient-timer)** | — | `HTML` `CSS` `JavaScript` |
+| **[MediMate](https://github.com/preetpatil214/MediMate)** | [APK](https://drive.google.com/file/d/1luvdnbs8-nDJL2iKOkTSwtJNiqoU1a98/view?usp=drivesdk) | `HTML` `CSS` `JavaScript` `Android` `Java` |
+| **[BookMyService](https://github.com/preetpatil214/BookMyService)** | [Live](https://book-my-service-bms.vercel.app/) | `HTML` `CSS` `JavaScript` |
+| **[CalcFlow](https://github.com/preetpatil214/CalcFlow)** | [Live](https://calc-flow-one.vercel.app/) | `HTML` `CSS` `JavaScript` |
+| **[Kaali-Peeli Radio](https://github.com/preetpatil214/Kaali-Peeli_Radio)** | [Live](https://kaali-peeli-radio.vercel.app/) | `HTML` `CSS` `JavaScript` |
+| **[Youtube Clone](https://github.com/preetpatil214/Youtube-Clone)** | [Live](https://youtube-clone-p9876.vercel.app/) | `HTML` `CSS` `JavaScript` |
+| **[Imperial Reality](https://github.com/preetpatil214/Imperial-Reality)** | [Live](https://imperial-reality.vercel.app/) | `HTML` `CSS` `JavaScript` |
+| **[QuickeR — QR Generator](https://github.com/preetpatil214/QuickeR---QR-generator)** | [Live](https://quicker---qr-generator.vercel.app/) | `HTML` `CSS` `JavaScript` |
+| **[WAQT — an ambient timer](https://github.com/preetpatil214/WAQT----an-ambient-timer)** | [Live](https://waqt-an-ambient-timerrr.vercel.app/) | `HTML` `CSS` `JavaScript` |
 
 </sub>
 
