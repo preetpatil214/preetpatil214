@@ -145,7 +145,7 @@ Hi, I'm **Preet Patil**. I enjoy building software, solving problems, and contin
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" align="center">
 
@@ -153,7 +153,7 @@ Hi, I'm **Preet Patil**. I enjoy building software, solving problems, and contin
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/card-MediMate-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-MediMate-light.svg">
-      <img src="assets/card-MediMate-dark.svg" width="420" alt="MediMate">
+      <img src="assets/card-MediMate-dark.svg" width="480" alt="MediMate">
     </picture>
   </a>
 
@@ -164,7 +164,7 @@ Hi, I'm **Preet Patil**. I enjoy building software, solving problems, and contin
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/card-BookMyService-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-BookMyService-light.svg">
-      <img src="assets/card-BookMyService-dark.svg" width="420" alt="BookMyService">
+      <img src="assets/card-BookMyService-dark.svg" width="480" alt="BookMyService">
     </picture>
   </a>
 
@@ -178,7 +178,7 @@ Hi, I'm **Preet Patil**. I enjoy building software, solving problems, and contin
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/card-CalcFlow-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-CalcFlow-light.svg">
-      <img src="assets/card-CalcFlow-dark.svg" width="420" alt="CalcFlow">
+      <img src="assets/card-CalcFlow-dark.svg" width="480" alt="CalcFlow">
     </picture>
   </a>
 
@@ -189,7 +189,7 @@ Hi, I'm **Preet Patil**. I enjoy building software, solving problems, and contin
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/card-Kaali-Peeli_Radio-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-Kaali-Peeli_Radio-light.svg">
-      <img src="assets/card-Kaali-Peeli_Radio-dark.svg" width="420" alt="Kaali-Peeli Radio">
+      <img src="assets/card-Kaali-Peeli_Radio-dark.svg" width="480" alt="Kaali-Peeli Radio">
     </picture>
   </a>
 
@@ -203,7 +203,7 @@ Hi, I'm **Preet Patil**. I enjoy building software, solving problems, and contin
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/card-Youtube-Clone-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-Youtube-Clone-light.svg">
-      <img src="assets/card-Youtube-Clone-dark.svg" width="420" alt="Youtube Clone">
+      <img src="assets/card-Youtube-Clone-dark.svg" width="480" alt="Youtube Clone">
     </picture>
   </a>
 
@@ -214,7 +214,7 @@ Hi, I'm **Preet Patil**. I enjoy building software, solving problems, and contin
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/card-Imperial-Reality-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-Imperial-Reality-light.svg">
-      <img src="assets/card-Imperial-Reality-dark.svg" width="420" alt="Imperial Reality">
+      <img src="assets/card-Imperial-Reality-dark.svg" width="480" alt="Imperial Reality">
     </picture>
   </a>
 
@@ -228,7 +228,7 @@ Hi, I'm **Preet Patil**. I enjoy building software, solving problems, and contin
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/card-QuickeR---QR-generator-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-QuickeR---QR-generator-light.svg">
-      <img src="assets/card-QuickeR---QR-generator-dark.svg" width="420" alt="QuickeR QR Generator">
+      <img src="assets/card-QuickeR---QR-generator-dark.svg" width="480" alt="QuickeR QR Generator">
     </picture>
   </a>
 
@@ -239,7 +239,7 @@ Hi, I'm **Preet Patil**. I enjoy building software, solving problems, and contin
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/card-WAQT----an-ambient-timer-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-WAQT----an-ambient-timer-light.svg">
-      <img src="assets/card-WAQT----an-ambient-timer-dark.svg" width="420" alt="WAQT — an ambient timer">
+      <img src="assets/card-WAQT----an-ambient-timer-dark.svg" width="480" alt="WAQT — an ambient timer">
     </picture>
   </a>
 
@@ -253,13 +253,13 @@ Hi, I'm **Preet Patil**. I enjoy building software, solving problems, and contin
 
 | project | live | stack |
 |:---|:---:|:---|
-| **[MediMate](https://github.com/preetpatil214/MediMate)** | [APK](https://drive.google.com/file/d/1luvdnbs8-nDJL2iKOkTSwtJNiqoU1a98/view?usp=drivesdk) | `HTML` `CSS` `JavaScript` `Android` `Java` |
-| **[BookMyService](https://github.com/preetpatil214/BookMyService)** | [Live](https://book-my-service-bms.vercel.app/) | `HTML` `CSS` `JavaScript` |
+| **[MediMate](https://github.com/preetpatil214/MediMate)** | [APK](https://drive.google.com/file/d/1luvdnbs8-nDJL2iKOkTSwtJNiqoU1a98/view?usp=drivesdk) | `HTML` `CSS` `JavaScript` `Java` `Android` |
+| **[BookMyService](https://github.com/preetpatil214/BookMyService)** | [Live](https://book-my-service-bms.vercel.app/) | `HTML` `CSS` `JavaScript` `Python` `Flask` `MySQL` |
 | **[CalcFlow](https://github.com/preetpatil214/CalcFlow)** | [Live](https://calc-flow-one.vercel.app/) | `HTML` `CSS` `JavaScript` |
 | **[Kaali-Peeli Radio](https://github.com/preetpatil214/Kaali-Peeli_Radio)** | [Live](https://kaali-peeli-radio.vercel.app/) | `HTML` `CSS` `JavaScript` |
 | **[Youtube Clone](https://github.com/preetpatil214/Youtube-Clone)** | [Live](https://youtube-clone-p9876.vercel.app/) | `HTML` `CSS` `JavaScript` |
 | **[Imperial Reality](https://github.com/preetpatil214/Imperial-Reality)** | [Live](https://imperial-reality.vercel.app/) | `HTML` `CSS` `JavaScript` |
-| **[QuickeR — QR Generator](https://github.com/preetpatil214/QuickeR---QR-generator)** | [Live](https://quicker---qr-generator.vercel.app/) | `HTML` `CSS` `JavaScript` |
+| **[QuickeR — QR Generator](https://github.com/preetpatil214/QuickeR---QR-generator)** | [Live](https://quicker---qr-generator.vercel.app/) | `HTML` `CSS` `JavaScript` `Python` |
 | **[WAQT — an ambient timer](https://github.com/preetpatil214/WAQT----an-ambient-timer)** | [Live](https://waqt-an-ambient-timerrr.vercel.app/) | `HTML` `CSS` `JavaScript` |
 
 </sub>
