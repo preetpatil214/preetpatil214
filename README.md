@@ -35,8 +35,8 @@
   &nbsp;&nbsp;
   &nbsp;&nbsp;
 
-  <!-- Matching Dark Theme Visitor Counter -->
-  <img src="https://img.shields.io/badge/Profile_Views-181818?style=for-the-badge&labelColor=181818&color=39D353" alt="Profile Views" />
+  <!-- Live Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=preetpatil214&style=for-the-badge&color=39d353&labelColor=181818&label=VIEWS" alt="Profile Views" />
 
 </div>
 
