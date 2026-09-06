@@ -12,18 +12,31 @@
 <!-- NAME / TAGLINE - animated typing -->
 
 <a href="https://github.com/preetpatil214">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Preet+Patil;Machine+Learning+%26+Web+Dev;Competitive+Programmer;01100011+01101111+01100100+01100101" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=PREET+PATIL;AI+%26+ML;Web+Development;Competitive+Programmer" alt="typing banner">
 </a>
 
 <br>
 
 <!-- SOCIALS -->
+<div align="center">
 
-<a href="mailto:preetpatil214@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <!-- Stylish Dark Mode Gmail Badge -->
+  <a href="mailto:preetpatil214@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-181818?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
+  
+  &nbsp;&nbsp;
+  
+  <!-- Sleek LeetCode Badge -->
+  <a href="https://leetcode.com/u/preetpatil" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-181818?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
+  </a>
 
-<a href="https://leetcode.com/u/preetpatil"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  &nbsp;&nbsp;
+  &nbsp;&nbsp;
 
-<img src="https://komarev.com/ghpvc/?username=preetpatil214&style=flat&color=39d353&label=profile+views" alt="profile views">
+  <!-- Matching Dark Theme Visitor Counter -->
+  <img src="https://img.shields.io/badge/Profile_Views-181818?style=for-the-badge&labelColor=181818&color=39D353" alt="Profile Views" />
 
 </div>
 
