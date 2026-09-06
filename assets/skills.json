@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated skill levels for Preet Patil. Values are 0-100.",
+  "axes": [
+    { "label": "HTML", "value": 90 },
+    { "label": "CSS", "value": 85 },
+    { "label": "JavaScript", "value": 65 },
+    { "label": "Python", "value": 72 },
+    { "label": "Flask", "value": 60 },
+    { "label": "MySQL", "value": 60 },
+    { "label": "Git / GitHub", "value": 70 }
+  ]
+}

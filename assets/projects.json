@@ -1,0 +1,37 @@
+{
+  "_comment": "All public repositories except the profile repository, in README order. Star/fork/language come live from the GitHub API on every run.",
+  "projects": [
+    {
+      "repo": "MediMate",
+      "description": "A mobile-first medicine reminder app with scheduled reminders, dose tracking, missed-dose handling, and a native Android alarm layer."
+    },
+    {
+      "repo": "BookMyService",
+      "description": "A service booking platform designed to connect users with services through a simple and practical booking experience."
+    },
+    {
+      "repo": "CalcFlow",
+      "description": "A clean calculator project built to strengthen frontend development, JavaScript logic, and responsive UI design."
+    },
+    {
+      "repo": "Kaali-Peeli_Radio",
+      "description": "A web-based radio experience inspired by Mumbai's Kaali-Peeli taxis, built as a creative frontend project."
+    },
+    {
+      "repo": "Youtube-Clone",
+      "description": "A YouTube-inspired frontend project built to practice layouts, responsive design, navigation, and modern web interfaces."
+    },
+    {
+      "repo": "Imperial-Reality",
+      "description": "A real-estate focused web project built around presenting properties through a clean and engaging user interface."
+    },
+    {
+      "repo": "QuickeR---QR-generator",
+      "description": "A lightweight QR code generator with a simple interface for quickly creating and using QR codes."
+    },
+    {
+      "repo": "WAQT---an-ambient-timer",
+      "description": "An ambient timer designed around a calm, minimal experience, combining focused timing with an immersive visual interface."
+    }
+  ]
+}
