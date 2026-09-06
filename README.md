@@ -22,9 +22,11 @@
   <a href="mailto:preetpatil214@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-181818?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/preetpatil" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-181818?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
   </a>
+  &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=preetpatil214&style=for-the-badge&color=39d353&labelColor=181818&label=%F0%9F%90%81%20VIEWS" alt="Profile Views" />
 
 </div>
